@@ -40,3 +40,7 @@
 </div>
 
 ###
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Inhouds-Delfina&radius=16&theme=high-contrast&area=true&order=5&hide_border=true&hide_title=false&custom_title=Grafico%20de%20actividad" height="300" alt="activity-graph graph"  />
+</div>
