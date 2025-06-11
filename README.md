@@ -25,22 +25,6 @@
 
 ###
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/Inhouds-Delfina/Inhouds-Delfina/output/snake.svg" alt="Snake animation" />
-
-###
-
-<br clear="both">
-
-<div align="center">
-  <a href="https://open.spotify.com/user/Delph Inhøuds">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=Delph%20Inh%C3%B8uds&count=5" alt="Spotify recently played"  />
-  </a>
-</div>
-
-###
-
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Inhouds-Delfina&radius=16&theme=high-contrast&area=true&order=5&hide_border=true&hide_title=false&custom_title=Grafico%20de%20actividad" height="300" alt="activity-graph graph"  />
 </div>
