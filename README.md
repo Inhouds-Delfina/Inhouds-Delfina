@@ -25,6 +25,17 @@
 
 ###
 
+<h3 align="left">Redes</h3>
+
+###
+
+<div align="left">
+  <a href="https://www.instagram.com/miin0_inh/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
+  </a>
+
+###
+
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Inhouds-Delfina&radius=16&theme=high-contrast&area=true&order=5&hide_border=true&hide_title=false&custom_title=Grafico%20de%20actividad" height="300" alt="activity-graph graph"  />
 </div>
